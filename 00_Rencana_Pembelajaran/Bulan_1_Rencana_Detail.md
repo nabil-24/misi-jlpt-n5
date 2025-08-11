@@ -14,10 +14,10 @@ Dokumen ini adalah panduan dan checklist harian terperinci untuk perjalanan bela
 - [ ] **Minggu 1 Selesai**
 
 **Senin (11/08):**
-- [ ] **Aksara (30 mnt):** Pelajari & tulis Hiragana (あ-こ).
-- [ ] **Grammar (20 mnt):** Pahami & latih pola `A wa B desu`.
-- [ ] **Kosakata (15 mnt):** Hafalkan 10 kata pertama (わたし, あなた, dll). Masukkan ke Anki.
-- [ ] **Review (15 mnt):** Ulangi menulis Hiragana & kalimat sebelum tidur.
+- [x] **Aksara (30 mnt):** Pelajari & tulis Hiragana (あ-こ).
+- [x] **Grammar (20 mnt):** Pahami & latih pola `A wa B desu`.
+- [x] **Kosakata (15 mnt):** Hafalkan 10 kata pertama (わたし, あなた, dll). Masukkan ke Anki.
+- [x] **Review (15 mnt):** Ulangi menulis Hiragana & kalimat sebelum tidur.
 
 **Selasa (12/08):**
 - [ ] **Aksara (30 mnt):** Pelajari & tulis Hiragana (さ-と). Review baris kemarin.
