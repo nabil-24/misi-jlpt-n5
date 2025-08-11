@@ -9,9 +9,13 @@ Kanji (Pengenalan): 一 (satu), 二 (dua), 三 (tiga), 人 (orang), 日 (hari/ma
 
 Senin:
 Aksara (30 mnt): Pelajari Hiragana あ, い, う, え, お dan か, き, く, け, こ. Latihan menulis berulang-ulang.
+
 Grammar (20 mnt): Pahami pola [Topik] wa [Deskripsi] desu. Contoh: わたし は ナビル です。 (Watashi wa Nabil desu).
+
 Kosakata (15 mnt): Hafalkan 10 kata pertama (わたし, あなた, はい, いいえ, にほん, インドネシア, さん).
+
 Review (15 mnt): Ulangi menulis Hiragana yang baru dipelajari sebelum tidur.
+
 
 Selasa:
 Aksara (30 mnt): Pelajari Hiragana さ, し, す, せ, そ dan た, ち, つ, て, と. Review baris kemarin.
